@@ -19,7 +19,7 @@ jobs:
       - name: Update Medium articles
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://medium.com/feed/@draftwithea"
+          feed_list: "https://medium.com/feed/@draftswithea"
           max_post_count: 5
           template: "- [$title]($url) — $date"
           date_format: "mmm dd, yyyy"
