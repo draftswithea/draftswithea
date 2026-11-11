@@ -12,7 +12,7 @@
 
 - [Why I Went Back to the “Old Way” of Using AI for Software Development](https://draftswithea.medium.com/why-i-went-back-to-the-old-way-of-using-ai-for-software-development-3e5e1ec47e7c?source=rss-5e3336169c4c------2) — Sep 27, 2026<!-- BLOG-POST-LIST:END -->
 
-### Connect with me via my socials
+## Connect with me via my socials
 
 You can find me on the following social platforms at the handle **@draftswithea**
 
