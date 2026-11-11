@@ -1,0 +1,25 @@
+name: Update Medium Articles
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update Medium articles
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@draftwithea"
+          max_post_count: 5
+          template: "- [$title]($url) — $date"
+          date_format: "mmm dd, yyyy"
