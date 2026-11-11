@@ -4,7 +4,7 @@
 
 ### Connect with me via my socials
 
-You can find me on the followin social platforms with the handle **@draftswithea**
+You can find me on the following social platforms at the handle **@draftswithea**
 
 <p align="left">
   <a href="https://tiktok.com/@draftswithea">
